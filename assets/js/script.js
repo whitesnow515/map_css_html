@@ -153,8 +153,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
         icons.forEach(function (icon) {
             icon.setAttribute("y", "890");
-            icon.setAttribute("height", "20");
-            icon.setAttribute("width", "20");
+            icon.setAttribute("height", "15");
+            icon.setAttribute("width", "15");
         });
 
         setTimeout(function () {
@@ -188,15 +188,15 @@ document.addEventListener("DOMContentLoaded", function () {
         this.parentNode.appendChild(argentina_text);
         // social media icons
 
-        facebook_icon.setAttribute("x", "800");
-        instagram_icon.setAttribute("x", "830");
-        linkedin_icon.setAttribute("x", "860");
-        twitter_icon.setAttribute("x", "890");
+        facebook_icon.setAttribute("x", "795");
+        instagram_icon.setAttribute("x", "825");
+        linkedin_icon.setAttribute("x", "855");
+        twitter_icon.setAttribute("x", "885");
 
         icons.forEach(function (icon) {
             icon.setAttribute("y", "1000");
-            icon.setAttribute("height", "20");
-            icon.setAttribute("width", "20");
+            icon.setAttribute("height", "15");
+            icon.setAttribute("width", "15");
         });
 
         setTimeout(function () {
@@ -230,15 +230,15 @@ document.addEventListener("DOMContentLoaded", function () {
         this.parentNode.appendChild(colombia_text_back);
         this.parentNode.appendChild(colombia_text);
         // social media icons
-        facebook_icon.setAttribute("x", "1520");
-        instagram_icon.setAttribute("x", "1640");
-        linkedin_icon.setAttribute("x", "1760");
-        twitter_icon.setAttribute("x", "1880");
+        facebook_icon.setAttribute("x", "1560");
+        instagram_icon.setAttribute("x", "1680");
+        linkedin_icon.setAttribute("x", "1800");
+        twitter_icon.setAttribute("x", "1920");
 
         icons.forEach(function (icon) {
             icon.setAttribute("y", "300");
-            icon.setAttribute("height", "80");
-            icon.setAttribute("width", "80");
+            icon.setAttribute("height", "60");
+            icon.setAttribute("width", "60");
         });
 
         setTimeout(function () {
@@ -278,10 +278,10 @@ document.addEventListener("DOMContentLoaded", function () {
         linkedin_icon.setAttribute("filter", "brightness(0) invert(1)");
         twitter_icon.setAttribute("filter", "brightness(0) invert(1)");
 
-        facebook_icon.setAttribute("x", "200");
-        instagram_icon.setAttribute("x", "300");
-        linkedin_icon.setAttribute("x", "400");
-        twitter_icon.setAttribute("x", "500");
+        facebook_icon.setAttribute("x", "160");
+        instagram_icon.setAttribute("x", "260");
+        linkedin_icon.setAttribute("x", "360");
+        twitter_icon.setAttribute("x", "460");
 
         icons.forEach(function (icon) {
             icon.setAttribute("y", "1100");
@@ -339,8 +339,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
         icons.forEach(function (icon) {
             icon.setAttribute("y", "1050");
-            icon.setAttribute("height", "20");
-            icon.setAttribute("width", "20");
+            icon.setAttribute("height", "15");
+            icon.setAttribute("width", "15");
         });
 
         setTimeout(function () {
@@ -387,8 +387,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
         icons.forEach(function (icon) {
             icon.setAttribute("y", "700");
-            icon.setAttribute("height", "20");
-            icon.setAttribute("width", "20");
+            icon.setAttribute("height", "15");
+            icon.setAttribute("width", "15");
         });
 
         setTimeout(function () {
@@ -436,8 +436,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
         icons.forEach(function (icon) {
             icon.setAttribute("y", "-280");
-            icon.setAttribute("height", "80");
-            icon.setAttribute("width", "80");
+            icon.setAttribute("height", "60");
+            icon.setAttribute("width", "60");
         });
 
         setTimeout(function () {
@@ -489,8 +489,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
         icons.forEach(function (icon) {
             icon.setAttribute("y", "-280");
-            icon.setAttribute("height", "80");
-            icon.setAttribute("width", "80");
+            icon.setAttribute("height", "60");
+            icon.setAttribute("width", "60");
         });
 
         setTimeout(function () {
@@ -535,10 +535,10 @@ document.addEventListener("DOMContentLoaded", function () {
         linkedin_icon.setAttribute("filter", "brightness(0) invert(1)");
         twitter_icon.setAttribute("filter", "brightness(0) invert(1)");
 
-        facebook_icon.setAttribute("x", "250");
-        instagram_icon.setAttribute("x", "350");
-        linkedin_icon.setAttribute("x", "450");
-        twitter_icon.setAttribute("x", "550");
+        facebook_icon.setAttribute("x", "180");
+        instagram_icon.setAttribute("x", "280");
+        linkedin_icon.setAttribute("x", "380");
+        twitter_icon.setAttribute("x", "480");
 
         icons.forEach(function (icon) {
             icon.setAttribute("y", "1100");

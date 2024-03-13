@@ -116,8 +116,8 @@ svg {
 #logo {
     width: 250px;
     height: 150px;
-    position: absolute;
-    left: 80%;
+    position: fixed;
+    right: 10px;
     top: 3%;
 }
 

@@ -62,14 +62,28 @@ svg {
     transform-origin: 43% 35%;
 }
 
+.fade1{
+    animation: myfade 1.5s;
+    -webkit-animation: myfade 1.5s;
+}
+
+@keyframes myfade {
+    from {opacity: 0%;}
+    to {opacity: 100%;}
+}
+
 #pe:hover {
     fill: #74ccf4 !important;
     transform: scale(2.5);
 }
 
 #path6462 {
-    transition: transform 1s ease-in-out;
+    transition: transform 2s ease-in-out;
     transform-origin: 30% 82%;
+    -webkit-transition: transform 2s ease-in-out;
+    -moz-transition: transform 2s ease-in-out;
+    -ms-transition: transform 2s ease-in-out;
+    -o-transition: transform 2s ease-in-out;
 }
 
 #path6462:hover {
@@ -118,8 +132,8 @@ svg {
 }
 
 #logo {
-    width: 250px;
-    height: 150px;
+    width: 15%;
+    height: 15%;
     position: fixed;
     right: 10px;
     top: 3%;

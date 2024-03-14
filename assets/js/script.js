@@ -152,7 +152,7 @@ document.addEventListener("DOMContentLoaded", function () {
         twitter_icon.setAttribute("x", "900");
 
         icons.forEach(function (icon) {
-            icon.setAttribute("y", "920");
+            icon.setAttribute("y", "910");
             icon.setAttribute("height", "15");
             icon.setAttribute("width", "15");
         });
@@ -188,13 +188,13 @@ document.addEventListener("DOMContentLoaded", function () {
         this.parentNode.appendChild(argentina_text);
         // social media icons
 
-        facebook_icon.setAttribute("x", "785");
-        instagram_icon.setAttribute("x", "815");
-        linkedin_icon.setAttribute("x", "845");
-        twitter_icon.setAttribute("x", "875");
+        facebook_icon.setAttribute("x", "788");
+        instagram_icon.setAttribute("x", "818");
+        linkedin_icon.setAttribute("x", "848");
+        twitter_icon.setAttribute("x", "878");
 
         icons.forEach(function (icon) {
-            icon.setAttribute("y", "990");
+            icon.setAttribute("y", "980");
             icon.setAttribute("height", "15");
             icon.setAttribute("width", "15");
         });
@@ -230,13 +230,13 @@ document.addEventListener("DOMContentLoaded", function () {
         this.parentNode.appendChild(colombia_text_back);
         this.parentNode.appendChild(colombia_text);
         // social media icons
-        facebook_icon.setAttribute("x", "1570");
-        instagram_icon.setAttribute("x", "1690");
-        linkedin_icon.setAttribute("x", "1810");
-        twitter_icon.setAttribute("x", "1930");
+        facebook_icon.setAttribute("x", "1575");
+        instagram_icon.setAttribute("x", "1695");
+        linkedin_icon.setAttribute("x", "1815");
+        twitter_icon.setAttribute("x", "1935");
 
         icons.forEach(function (icon) {
-            icon.setAttribute("y", "300");
+            icon.setAttribute("y", "230");
             icon.setAttribute("height", "60");
             icon.setAttribute("width", "60");
         });
@@ -278,13 +278,13 @@ document.addEventListener("DOMContentLoaded", function () {
         linkedin_icon.setAttribute("filter", "brightness(0) invert(1)");
         twitter_icon.setAttribute("filter", "brightness(0) invert(1)");
 
-        facebook_icon.setAttribute("x", "160");
-        instagram_icon.setAttribute("x", "260");
-        linkedin_icon.setAttribute("x", "360");
-        twitter_icon.setAttribute("x", "460");
+        facebook_icon.setAttribute("x", "597");
+        instagram_icon.setAttribute("x", "697");
+        linkedin_icon.setAttribute("x", "797");
+        twitter_icon.setAttribute("x", "897");
 
         icons.forEach(function (icon) {
-            icon.setAttribute("y", "1100");
+            icon.setAttribute("y", "1030");
             icon.setAttribute("height", "60");
             icon.setAttribute("width", "60");
         });
@@ -321,12 +321,6 @@ document.addEventListener("DOMContentLoaded", function () {
             }
 
         }, 1200);
-
-        // this.parentNode.appendChild(chile_text_back);
-        // this.parentNode.appendChild(chile_text);
-
-        // social media icons
-
         facebook_icon.setAttribute("filter", "brightness(0) invert(1)");
         instagram_icon.setAttribute("filter", "brightness(0) invert(1)");
         linkedin_icon.setAttribute("filter", "brightness(0) invert(1)");
@@ -338,7 +332,7 @@ document.addEventListener("DOMContentLoaded", function () {
         twitter_icon.setAttribute("x", "660");
 
         icons.forEach(function (icon) {
-            icon.setAttribute("y", "1023");
+            icon.setAttribute("y", "1010");
             icon.setAttribute("height", "15");
             icon.setAttribute("width", "15");
         });
@@ -380,13 +374,13 @@ document.addEventListener("DOMContentLoaded", function () {
         this.parentNode.appendChild(mexico_text);
 
         // social media icons
-        facebook_icon.setAttribute("x", "620");
-        instagram_icon.setAttribute("x", "650");
-        linkedin_icon.setAttribute("x", "680");
-        twitter_icon.setAttribute("x", "710");
+        facebook_icon.setAttribute("x", "625");
+        instagram_icon.setAttribute("x", "655");
+        linkedin_icon.setAttribute("x", "685");
+        twitter_icon.setAttribute("x", "715");
 
         icons.forEach(function (icon) {
-            icon.setAttribute("y", "706");
+            icon.setAttribute("y", "696");
             icon.setAttribute("height", "15");
             icon.setAttribute("width", "15");
         });
@@ -429,13 +423,13 @@ document.addEventListener("DOMContentLoaded", function () {
         linkedin_icon.setAttribute("filter", "brightness(0) invert(1)");
         twitter_icon.setAttribute("filter", "brightness(0) invert(1)");
 
-        facebook_icon.setAttribute("x", "1600");
-        instagram_icon.setAttribute("x", "1720");
-        linkedin_icon.setAttribute("x", "1840");
-        twitter_icon.setAttribute("x", "1960");
+        facebook_icon.setAttribute("x", "1540");
+        instagram_icon.setAttribute("x", "1640");
+        linkedin_icon.setAttribute("x", "1740");
+        twitter_icon.setAttribute("x", "1840");
 
         icons.forEach(function (icon) {
-            icon.setAttribute("y", "-260");
+            icon.setAttribute("y", "-450");
             icon.setAttribute("height", "60");
             icon.setAttribute("width", "60");
         });
@@ -482,13 +476,13 @@ document.addEventListener("DOMContentLoaded", function () {
         linkedin_icon.setAttribute("filter", "brightness(0) invert(1)");
         twitter_icon.setAttribute("filter", "brightness(0) invert(1)");
 
-        facebook_icon.setAttribute("x", "1750");
-        instagram_icon.setAttribute("x", "1870");
-        linkedin_icon.setAttribute("x", "1990");
-        twitter_icon.setAttribute("x", "2110");
+        facebook_icon.setAttribute("x", "1759");
+        instagram_icon.setAttribute("x", "1879");
+        linkedin_icon.setAttribute("x", "1999");
+        twitter_icon.setAttribute("x", "2119");
 
         icons.forEach(function (icon) {
-            icon.setAttribute("y", "-280");
+            icon.setAttribute("y", "-313");
             icon.setAttribute("height", "60");
             icon.setAttribute("width", "60");
         });
@@ -535,13 +529,13 @@ document.addEventListener("DOMContentLoaded", function () {
         linkedin_icon.setAttribute("filter", "brightness(0) invert(1)");
         twitter_icon.setAttribute("filter", "brightness(0) invert(1)");
 
-        facebook_icon.setAttribute("x", "180");
-        instagram_icon.setAttribute("x", "280");
-        linkedin_icon.setAttribute("x", "380");
-        twitter_icon.setAttribute("x", "480");
+        facebook_icon.setAttribute("x", "380");
+        instagram_icon.setAttribute("x", "480");
+        linkedin_icon.setAttribute("x", "580");
+        twitter_icon.setAttribute("x", "680");
 
         icons.forEach(function (icon) {
-            icon.setAttribute("y", "1080");
+            icon.setAttribute("y", "640");
             icon.setAttribute("height", "70");
             icon.setAttribute("width", "80");
         });

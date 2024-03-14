@@ -322,8 +322,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
         }, 1200);
 
-        this.parentNode.appendChild(chile_text_back);
-        this.parentNode.appendChild(chile_text);
+        // this.parentNode.appendChild(chile_text_back);
+        // this.parentNode.appendChild(chile_text);
 
         // social media icons
 
@@ -332,13 +332,13 @@ document.addEventListener("DOMContentLoaded", function () {
         linkedin_icon.setAttribute("filter", "brightness(0) invert(1)");
         twitter_icon.setAttribute("filter", "brightness(0) invert(1)");
 
-        facebook_icon.setAttribute("x", "580");
-        instagram_icon.setAttribute("x", "610");
-        linkedin_icon.setAttribute("x", "640");
-        twitter_icon.setAttribute("x", "670");
+        facebook_icon.setAttribute("x", "570");
+        instagram_icon.setAttribute("x", "600");
+        linkedin_icon.setAttribute("x", "630");
+        twitter_icon.setAttribute("x", "660");
 
         icons.forEach(function (icon) {
-            icon.setAttribute("y", "1050");
+            icon.setAttribute("y", "1023");
             icon.setAttribute("height", "15");
             icon.setAttribute("width", "15");
         });
